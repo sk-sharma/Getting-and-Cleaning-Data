@@ -6,13 +6,13 @@ Step1: Download and unzip the data files in the working directory and the again 
 
 Step2: Reading the following data files
         1. activity_labels.txt in activity
-        2. features.txt in features
-        3. X_train.txt in xtrain
-        4. y_train.txt in ytrain
-        5. X_test.txt in xtest
-        6. y_test.txt in ytest
-        7. subject_train in strain
-        8. subject_test in stest
+        1. features.txt in features
+        1. X_train.txt in xtrain
+        1. y_train.txt in ytrain
+        1. X_test.txt in xtest
+        1. y_test.txt in ytest
+        1. subject_train in strain
+        1. subject_test in stest
         
 Step3: Assigning the column names for the data sets xtrain and xtest from               features.
         
